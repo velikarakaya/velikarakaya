@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Veli Karakaya
+### Student at Bilkent University
+### Major : CS (Freshman)
 
 <!--
 **velikarakaya/velikarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
