@@ -1,4 +1,4 @@
-### Hi, I'm Veli Karakaya and I am a student at Bilkent University. CS Major (Sophomore)
+### Hi, I'm Veli Karakaya and I am a student at Bilkent University. CS Major 
 
 <!--
 **velikarakaya/velikarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
